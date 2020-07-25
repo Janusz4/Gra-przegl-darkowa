@@ -1,0 +1,166 @@
+body
+{
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+	height: 100%;
+	min-height:100%;
+}
+
+h3
+{
+	color: #39a5f1;
+	margin-bottom: 50px;
+	margin-top: 70px;
+}
+
+.popup_content {
+    display: none;
+    position: fixed;
+    top: 25%;
+    left: 25%;
+    padding: 16px;
+    border: 16px solid #39a5f1;
+    background-color: #2F3336;
+    z-index: 1002;
+    overflow: auto;
+	padding-top: 0px;
+}
+
+@media only screen and (max-width: 577px) {
+  .popup_content{
+	  left:0%;
+  }
+}
+
+.budynek{
+	background-color: #262B30;
+	margin-top: 50px;
+	padding: 10px 0px 0px 0px;
+	text-align: center;
+	color: #cacbcc;
+}
+
+.budynek p{
+	background-color: #cacbcc;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	color: #262B30;
+}
+
+.img{
+	font-size: 170px;
+	cursor: pointer;
+}
+
+i{
+    font-size: 30px    !important;
+    position: relative;
+    top: 5px;
+}
+
+input{
+    color: #8E9198;
+}
+
+a{
+    color: #efefef;
+}
+
+a:hover{
+	color: white;
+}
+
+.stopka
+{
+	background-color: #262B30;
+	color: #8E9198;
+	font-size: 18px;
+	margin-top: 40px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.error{
+  color:red;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.rejstracja{
+    margin-top: 75px;
+    padding: 50px;
+}
+
+.g-recaptcha div{
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.menu{
+    background-color: #1c74b2;
+    margin: 0px;
+	padding: 5px;
+}
+
+h1.logo
+{
+	font-size: 44px;
+	font-weight: 700;
+	color: #ddd;
+	text-align: center;
+	letter-spacing: 5px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+
+.zmaknij{
+	font-size: 22px !important;
+	padding-right: 0px;
+}
+
+.zamknij:hover{
+	color: red;
+	cursor: pointer;
+}
+
+.budynek-nazwa{
+	text-align: center;
+	font-size: 30px;
+}
+
+.btn-ulepsz{
+	background-color: #262B30;
+}
+
+td{
+	padding: 10px;
+}
+
+.btn-dark{
+	background-color: #262B30;
+}
+
+.main-div{
+	margin-top: 75px;
+	padding: 50px;
+}
+
+#ranking:hover{
+	text-decoration: underline;
+	font: white;
+}
+
+.number{
+	width: 60px;
+}
+
+label{
+	margin-right: 5px;
+}
+
+.ban{
+	color: #8E9198;
+}
