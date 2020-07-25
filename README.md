@@ -1,9 +1,9 @@
-# Gra-przegl-darkowa
+# Gra przeglądarkowa
 Wykorzystane technologie przy tworzeniu projektu to: PHP, Bootstrap, AJAX, jQuery, MySQL. Przed zaczęciem użytkowania aplikacji należy włączyć harmonogram zdarzeń. 
  
 Harmonogram zdarzeń
 W projekcie zaimplementowane jest logowanie, rejestracja, odzyskiwanie hasła oraz sama mechanika gry. 
- 
+ ![Logowanie](/img/logowanie.png)
 Logowanie
  
 Rejestracja
@@ -16,7 +16,7 @@ Resetowanie hasła
 Tworzenie nowego hasła
  
 Bezpieczeństwo
- Do wysyłania e-mail za pomocą PHPMailer’a wykorzystano gmaila dlatego w razie nie przychodzenia wiadomości należy włączyć dostęp do aplikacji mniej bezpiecznych. Adres e-mail to no.replay.projekt@gmail.com a hasło zaq1@WSX.  W grze występuje 4 rodzaje budynków. Zamek pozwala na ulepszanie innych budynków na wyższy poziom. Tartak, który generuje drewno. Kamieniołom, który generuje kamień. Pole, które generuje zboże. Koszary, które pozwalają na rekrutowanie jednostek. 
+ Do wysyłania e-mail za pomocą PHPMailer’a wykorzystano gmaila dlatego w razie nie przychodzenia wiadomości należy włączyć dostęp do aplikacji mniej bezpiecznych. W grze występuje 4 rodzaje budynków. Zamek pozwala na ulepszanie innych budynków na wyższy poziom. Tartak, który generuje drewno. Kamieniołom, który generuje kamień. Pole, które generuje zboże. Koszary, które pozwalają na rekrutowanie jednostek. 
  
 Okno gry
  
