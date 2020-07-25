@@ -2,10 +2,10 @@
  
 W projekcie zaimplementowane jest logowanie, rejestracja, odzyskiwanie hasła oraz sama mechanika gry. 
 
- ![Logowanie](/img/logowanie.png)
+![Logowanie](/img/logowanie.png)
  
-Logowanie
-  ![Rejestracja](/img/rejestracja.png)
+*Logowanie*
+![Rejestracja](/img/rejestracja.png)
   
 Rejestracja
 W rejestracji wykorzystano mechanizm CAPTCHA w celu zabezpieczenia przed spamem.
