@@ -1,8 +1,7 @@
-# Gra przeglądarkowa
-Wykorzystane technologie przy tworzeniu projektu to: PHP, Bootstrap, AJAX, jQuery, MySQL. Przed zaczęciem użytkowania aplikacji należy włączyć harmonogram zdarzeń. 
+# Gra przeglądarkowa 
  
-Harmonogram zdarzeń
 W projekcie zaimplementowane jest logowanie, rejestracja, odzyskiwanie hasła oraz sama mechanika gry. 
+
  ![Logowanie](/img/logowanie.png)
  
 Logowanie
@@ -29,11 +28,11 @@ Okno gry
 Pole
  
 Za atakowanie innych graczy zdobywamy punkty chwały. Jako przeciwnika mamy do wyboru jednego z 5 najbliższych graczy w rankingu. Przy atakuj siła graczy jest liczona według następującego wzoru: ilość wojowników + ilość łuczników *4.
- 
+ ![Ranking](/img/ranking.png)
 Ranking
 W rankingu znajduje się top 100 graczy pod względem punktów chwały.
- 
+ ![Administracja](/img/panel.png)
 Administracja
 Dane do istniejącego konta administratora to login admin a hasło @dmin234. Będąc zalogowanym jako administrator mamy możliwość banowania i odbanowywania użytkowników. Do szybszego wyszukiwania graczy służy odpowiednie pole tekstowe.
- 
+ ![Ban](/img/ban.png)
 Komunikat zablokowanego użytkownika.
